@@ -22,9 +22,20 @@ margin-top: 50px;
 .contact {
   text-align: right;
   margin-right: 20px;
+  height: 12em;
+}
+
+.contact img{
+  float: left;
 }
 
 .prez p:nth-child(1){
   padding-right: 112px;
   padding-left: 112px;
 }
+i {
+  text-align: left;
+}
+/*.logo {
+
+}*/
